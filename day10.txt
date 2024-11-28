@@ -1,0 +1,2 @@
+This is day 10 of the 100 days of python
+Today we are learning file handling in python
